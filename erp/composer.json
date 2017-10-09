@@ -1,0 +1,13 @@
+{
+    "name": "erp/payment",
+    "description": "erp system",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akazad30",
+            "email": "abulkalamcse30@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
